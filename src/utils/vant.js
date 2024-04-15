@@ -1,0 +1,164 @@
+import Vue from "vue";
+import {
+  Button,
+  Cell,
+  CellGroup,
+  Tabbar,
+  TabbarItem,
+  NavBar,
+  Swipe,
+  SwipeItem,
+  Popup,
+  Dialog,
+  Toast,
+  Picker,
+  DatetimePicker,
+  Loading,
+  PullRefresh,
+  Image,
+  Lazyload,
+  List,
+  Collapse,
+  CollapseItem,
+  Tab,
+  Tabs,
+  Form,
+  Field,
+  RadioGroup,
+  Radio,
+  CheckboxGroup,
+  Checkbox,
+  Switch,
+  Stepper,
+  Search,
+  Rate,
+  Slider,
+  Uploader,
+  Badge,
+  Tag,
+  TreeSelect,
+  CountDown,
+  Divider,
+  Empty,
+  Sticky,
+  Step,
+  Steps,
+  Circle,
+  IndexBar,
+  IndexAnchor,
+  SwipeCell,
+  Sidebar,
+  SidebarItem,
+  Grid,
+  GridItem,
+  Card,
+  SubmitBar,
+  GoodsAction,
+  GoodsActionIcon,
+  GoodsActionButton,
+  DropdownMenu,
+  DropdownItem,
+  SwitchCell,
+  AddressEdit,
+  AddressList,
+  Area,
+  Calendar,
+  Coupon,
+  CouponCell,
+  CouponList,
+  Icon,
+  Info,
+  NoticeBar,
+  Notify,
+  NumberKeyboard,
+  Overlay,
+  Pagination,
+  Panel,
+  PasswordInput,
+  Progress,
+  Row,
+  ShareSheet,
+  Skeleton,
+  ActionSheet,
+} from "vant";
+
+Vue.use(Button);
+Vue.use(Cell);
+Vue.use(CellGroup);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(NavBar);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Popup);
+Vue.use(Dialog);
+Vue.use(Toast);
+Vue.use(Picker);
+Vue.use(DatetimePicker);
+Vue.use(Loading);
+Vue.use(PullRefresh);
+Vue.use(Image);
+Vue.use(Lazyload);
+Vue.use(List);
+Vue.use(Collapse);
+Vue.use(CollapseItem);
+Vue.use(Tab);
+Vue.use(Tabs);
+Vue.use(Form);
+Vue.use(Field);
+Vue.use(RadioGroup);
+Vue.use(Radio);
+Vue.use(CheckboxGroup);
+Vue.use(Checkbox);
+Vue.use(Switch);
+Vue.use(Stepper);
+Vue.use(Search);
+Vue.use(Rate);
+Vue.use(Slider);
+Vue.use(Uploader);
+Vue.use(Badge);
+Vue.use(Tag);
+Vue.use(TreeSelect);
+Vue.use(CountDown);
+Vue.use(Divider);
+Vue.use(Empty);
+Vue.use(Sticky);
+Vue.use(Step);
+Vue.use(Steps);
+Vue.use(Circle);
+Vue.use(IndexBar);
+Vue.use(IndexAnchor);
+Vue.use(SwipeCell);
+Vue.use(Sidebar);
+Vue.use(SidebarItem);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(Card);
+Vue.use(SubmitBar);
+Vue.use(GoodsAction);
+Vue.use(GoodsActionIcon);
+Vue.use(GoodsActionButton);
+Vue.use(DropdownMenu);
+Vue.use(DropdownItem);
+Vue.use(SwitchCell);
+Vue.use(AddressEdit);
+Vue.use(AddressList);
+Vue.use(Area);
+Vue.use(Calendar);
+Vue.use(Coupon);
+Vue.use(CouponCell);
+Vue.use(CouponList);
+Vue.use(Icon);
+Vue.use(Info);
+Vue.use(NoticeBar);
+Vue.use(Notify);
+Vue.use(NumberKeyboard);
+Vue.use(Overlay);
+Vue.use(Pagination);
+Vue.use(Panel);
+Vue.use(PasswordInput);
+Vue.use(Progress);
+Vue.use(Row);
+Vue.use(ShareSheet);
+Vue.use(Skeleton);
+Vue.use(ActionSheet);

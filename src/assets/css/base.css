@@ -1,0 +1,30 @@
+html {
+    font-size: 9.62px !important;
+}
+
+#root,
+body,
+html,
+#app {
+    height: 100%;
+    width: 100%;
+}
+
+:root {
+    --system-color: #1766ff;
+    --system-dark: #00349c;
+    --system-light: #4281ff;
+}
+
+input,
+select,
+textarea {
+    border: 0;
+    margin: 0;
+    min-width: 0;
+    outline: none;
+    padding: 0;
+}
+
+
+
